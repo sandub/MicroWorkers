@@ -1,0 +1,48 @@
+/* common styles */
+
+*{margin:0px; padding:0px;}
+
+html{font-size:100%;}
+
+body{font:70% Arial, Helvetica, sans-serif;}
+
+textarea{overflow:auto;}
+
+a{outline:none; color:#0067B3}
+
+img{border:0px;}
+
+/* end of common styles */
+
+
+
+.box {
+
+	background:Whitesmoke none repeat scroll 0 0;
+
+	border:1px solid #C0C0C0;
+
+	margin-bottom:2px;
+
+	padding:4px;
+
+	text-align:left;
+
+	text-transform:uppercase;
+
+}
+
+.box a{text-decoration:none;}
+
+.box-hover{background-color:#DEDEDE;}
+
+
+
+h1{font-size:14px; font-weight:bold;}
+
+.labels{background-color:#B7CBCF; width:100px; padding:3px;}
+.labels1{background-color:#B7CBCF; padding:3px;}
+
+.rows{background-color:#E6E6E6; padding:3px;}
+
+.input{border:solid 1px #9A9A9A;}
