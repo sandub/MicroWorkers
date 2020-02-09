@@ -1,0 +1,16 @@
+HEADER
+<script type="text/javascript" src="editor/ckeditor/ckeditor.js"
+	charset="utf-8"></script>
+<script type="text/javascript"
+	src="editor/ckeditor/ckfinder/ckfinder.js" charset="utf-8"></script>
+
+FOOTER
+<script language="JavaScript" type="text/javascript">
+	
+
+var editor = CKEDITOR.replace( 'media_desc' );	
+	
+	CKFinder.SetupCKEditor( editor, 'editor/ckeditor/ckfinder/' ) ;
+
+
+</script>
