@@ -1,5 +1,6 @@
 <?php 
-include('includes/admin_header.php'); 
+include('includes/admin_header.php');
+include('../settings/config.php');
 $normal_price=$EstimatedCampaigncost;
 
 if(isset($_POST["gosave"])) {	
